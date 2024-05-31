@@ -52,7 +52,7 @@
   <p>Analysis of the botnet behavior in IoT networks and designing a machine learning based detection system has been successfully completed which will go a long way in improving the security of IoT networks. With an accuracy of 97% using CNN, the project has shown some very promising results using the latest technology to fight against the dynamic threats in the cyber world.
 </p>
 
-<h2>FUTURE WORK</h2>
+<h2>Future Work</h2>
 <p>For future extensions, we would be using much larger datasets to train and test the detection system. A large dataset containing various types of attacks, both known and unknown, can be used to train the model so that it can detect a variety of attacks and also it will make the detection system more robust and resilient enabling it to detect unknown attacks thereby taking a proactive measure to stop its proliferation. Also, a combination of multiple machine learning algorithms can be used as an ensemble technique, for example, decision trees, random forest, gradient boosting etc., all these algorithms can be trained with the dataset and the output of each algorithm can be taken as the input for the next one. </p>
 
 <h2>Team Members</h2>
